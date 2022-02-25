@@ -1,7 +1,21 @@
 /* danone color #0D2821 */
-#header {
 
+body {
+
+}
+#header {
+    position: fixed;
+    width: 100%;
+    padding: 1.5em;
+    height: 250px;
+    background-color: #0c2921;
+}
+main {
+    
 }
 #nav-bar {
     
 }
+#header-img {
+    height: 150px;
+  }
